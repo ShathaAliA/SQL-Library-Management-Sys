@@ -1,2 +1,2 @@
 # SQL-Library-Management-Sys
-Initial Database designed to enhance library operation
+A library database system built using SQL, including schema design, queries, and data management
